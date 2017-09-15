@@ -6,11 +6,11 @@ print("Some Text")
 ```
 
 Output:
-```
+```javascript
 Some Text
 ```
 
-** Task **
+#### Task 
 Write code to display the following in the correct order and with correct spelling:
 
 ```
